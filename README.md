@@ -1,18 +1,23 @@
 # allreacthoooksyouneed
 
-useState
-useEffect
-useCallback
-useMemo
-useRef
-useReducer
-useContext
+
+#### useState
+#### useEffect
+#### useHistory
+#### useLocation
+#### useParams
+#### useRouteMatch
+#### useCallback
+#### useMemo
+#### useRef
+#### useReducer
+#### useContext
 
 ### additional
 
-memo
-fetch
-Router
+#### memo
+#### fetch
+#### Router
 
 
 
